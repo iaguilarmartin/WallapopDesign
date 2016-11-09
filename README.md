@@ -1,7 +1,7 @@
 # WallapopDesign
-An iOS App design made with **Sketch**. It is a replica of some of the screens you can find in one of the most important shopping apps here in Spain. Its name is [Wallapop](https://app.adjust.com/rh6uzq?&_pid=web&_me=www&campaign=desktop_landing).
+A mobile App design made with **Sketch**. It is a replica of some of the screens you can find in one of the most important shopping apps here in Spain. Its name is [Wallapop](https://app.adjust.com/rh6uzq?&_pid=web&_me=www&campaign=desktop_landing).
 
-In this repository I include the *.sketch* file so you can take a look and check that every item found in the screens is entirely designed by me. It is also included all the assets needed to apply this design to an iOS App.
+In this repository I include the *.sketch* file so you can take a look and check that every item found in the screens is entirely designed by me. They are also included all the assets needed to apply this design to your mobile application whether it is an iOS app or an Android app.
 
 If you want to see this design in action visit the prototype project that I have created on [Marvel](https://marvelapp.com/19e8ac6).
 
